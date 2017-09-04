@@ -1,0 +1,15 @@
+.navbar{
+    border-radius: 0;
+}
+#logo{
+    color: #E13300;
+    font-size: 20px;
+}
+#menu{
+    color: #E13300;
+    font-size: 20px; 
+    text-transform: uppercase;
+}
+.jumbotron{
+    background-color: #39b3d7 !important;
+}
